@@ -1,0 +1,21 @@
+{
+  "name": "react_client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jakebarnett/express_rest_api",
+  "authors": [
+    "Jacob Barnett <mrjbarnett@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.0",
+    "jquery": "~2.1.3"
+  }
+}
